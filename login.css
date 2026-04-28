@@ -1,9 +1,9 @@
-#mainBody{
+Body{
     display: flex;
     flex-direction: column;
     background-color: #8BB3C2;
 }
-#loginBody{
+#login{
     justify-content: center;
     align-items: center;
     background-color: #4B456B;
@@ -16,6 +16,6 @@
 
 }
 
-#navbar{
+nav{
     display: flex;
 }
