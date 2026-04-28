@@ -1,0 +1,21 @@
+Body{
+    display: flex;
+    flex-direction: column;
+    background-color: #8BB3C2;
+}
+#login{
+    justify-content: center;
+    align-items: center;
+    background-color: #4B456B;
+    
+
+}
+
+#tab{
+    text-align: center;
+
+}
+
+nav{
+    display: flex;
+}
