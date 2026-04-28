@@ -18,9 +18,9 @@ ensuring only authenticated users can gain access.
     2. Upgrade CSS frontend for the webpage, add password reset functions
 
 ## Sprint 1 Retrospectives
-- Naming convention for branches
-- Agree on check in time for updates
-- Choose a lead or method to make a call
+- Naming convention for branches : (initials)-feature-(feature name)
+- Agree on check in time for updates : every 20-minutes
+- Choose a lead or method to make a call : 
 
 
     
