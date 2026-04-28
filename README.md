@@ -15,7 +15,7 @@ ensuring only authenticated users can gain access.
 
 ## Sprint backlogs
     1. Create the MVP for a secure log-in webpage for a school. This includes the admin and teacher log-in, security question requirement and user page which you are redirected to when signing in.
-    2. Upgrade CSS frontend for the webpage, add password reset function
+    2. Upgrade CSS frontend for the webpage, add password reset functions
 
 ## Sprint 1 Retrospectives
 - Naming convention for branches
