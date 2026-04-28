@@ -1,14 +1,17 @@
-Body{
-    display: flex;
-    flex-direction: column;
+body{
     background-color: #8BB3C2;
 }
 #login{
+    background-color: #4B456B;
+    text-align: center;
+    width: 75%;
+}
+
+.flexContainer{
+    display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #4B456B;
-    
-
+    margin-top: 30px
 }
 
 #tab{
@@ -18,4 +21,13 @@ Body{
 
 nav{
     display: flex;
+    justify-content: space-evenly;
+}
+
+nav a{
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
 }
