@@ -19,30 +19,31 @@
         <a href="#About">About</a>
         <a href="#Contact">Contact</a>
     </nav>
+    <div class="flexContainer">
+        <form id="login">
 
-    <form id="login">
+            <label for="user-type" aria-placeholder="select">Select user type</label>
 
-        <label for="user-type" aria-placeholder="select">Select user type</label>
+            <select id="user-type">
+                <option value="Teacher">Teacher</option>
+                <option value="Parent">Parent</option>
+                <option value="Admin">Admin</option>
+            </select><br>
 
-        <select id="user-type">
-            <option value="Teacher">Teacher</option>
-            <option value="Parent">Parent</option>
-            <option value="Admin">Admin</option>
-        </select><br>
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="your email" required><br>
 
-        <label for="email">Email</label>
-        <input type="email" id="email" placeholder="your email" required><br>
+            <label for="password">Password</label>
+            <input type="password" id="password" placeholder="password" required><br>
 
-        <label for="password">Password</label>
-        <input type="password" id="password" placeholder="password" required><br>
+            <input type="reset"><br>
 
-        <input type="reset"><br>
+            <a href="">
+                <button>Submit</button>
+            </a>
 
-        <a href="">
-            <button>Submit</button>
-        </a>
-
-    </form>
+        </form>
+    </div>
 
 </body>
 
