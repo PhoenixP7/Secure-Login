@@ -20,7 +20,11 @@ ensuring only authenticated users can gain access.
 ## Sprint 1 Retrospectives
 - Naming convention for branches : (initials)-feature-(feature name)
 - Agree on check in time for updates : every 20-minutes
-- Choose a lead or method to make a call : 
+- Choose a lead or method to make a call 
+
+## Sprint 2 Retrospectives
+- Git workflow. Only use 2 branches: main and development. 
+- Frog leaping when pushing and pulling to reduce mix-ups which need to be fixed as this can waste development time. 
 
 
     
